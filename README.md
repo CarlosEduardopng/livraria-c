@@ -1,4 +1,4 @@
-# Projeto de Algoritmos e Estruturas de Dados
+# Projeto de Algoritmos e Estruturas de Dados I
 
 Este projeto é um Sistema de Gerenciamento de Livraria desenvolvido em C, utilizando listas ligadas, algoritmos de ordenação (Quicksort), busca binária, manipulação de arquivos e modularização de código.
 
@@ -28,13 +28,14 @@ Não é necessário criar arquivos manualmente, o programa cria e atualiza o arq
 ## Como Compilar e Executar
 
 Compile o projeto com o GCC utilizando o seguinte comando no terminal, dentro da pasta do projeto:
-
+````bash
 gcc main.c livraria.c -o livraria.exe
-
+````
 Após compilar, execute o programa com:
-
+```bash
 ./livraria
-
+```
 No Windows, o executável será livraria.exe, então execute:
-
+```bash
 livraria.exe
+```
